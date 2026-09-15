@@ -1,0 +1,10 @@
+Bezperiferov 1 i3-8100 8192 0 512 1 1 256 2 0 Win10
+Mnogoustroev 1 i9-13900K 65536 1 8192 1 2 2048 8 9 Win11
+Dolgaya-Familiya-Test-Tridtsata 1 i5-11400 16384 1 2048 1 1 1024 4 3 Win11
+Dvuhprocesorny 2 Xeon-E52660 131072 2 8192 0 4 4096 10 6 Linux
+Odinokiy 1 Ryzen3-4300G 4096 0 256 1 1 128 1 1 Ubuntu22
+Pustoi-Video 1 i5-10400F 16384 0 0 1 1 512 4 2 Win10
+Sasovik 1 i7-9700 32768 1 4096 0 2 1024 6 5 AstraLinux
+Granichny 1 i7-11700 32768 2 4096 1 1 1024 5 4 Windows11ProMax
+Nul-Device-Vtoroy 1 Pentium-G5420 4096 0 512 1 1 256 2 0 Win10
+Desyat-Dev 1 Ryzen7-4700U 32768 1 8192 1 1 2048 6 10 Mint21
